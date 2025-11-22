@@ -3,6 +3,6 @@ Software Engineer @ Nubank · Backend & Distributed Systems · 🇧🇷 Lençói
 
 **Quick links**
 - LinkedIn: https://www.linkedin.com/in/rafaalberto17
-- Email: rafael.alberto1703@example.com
+- Email: rafael.alberto1703@gmail.com
 
 I build reliable, high-throughput backend systems for fintech. Open to remote roles and collaboration.
