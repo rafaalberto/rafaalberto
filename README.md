@@ -39,8 +39,11 @@
 ### **[banking-account](https://github.com/rafaalberto/banking-account)**  
 Backend API using **Java 21 & Undertow** — designed with clean architecture, modular layers and focus on concurrency correctness.
 
+### **[transaction-stream-processor](https://github.com/rafaalberto/transaction-stream-processor)**  
+Backend API using **Java 21 & Undertow** — designed with clean architecture, modular layers and focus on concurrency correctness.
+
 ### **[kotlin-api-mongodb](https://github.com/rafaalberto/kotlin-api-mongodb)**  
-Lightweight Kotlin API backed by MongoDB — clean domain separation and easy maintainability.
+Event-driven transaction processor using Kafka, clean architecture, and atomic operations.
 
 ### **[timesheet-api](https://github.com/rafaalberto/timesheet-api)**  
 Simple time-tracking microservice — clear REST design and straightforward architecture.
